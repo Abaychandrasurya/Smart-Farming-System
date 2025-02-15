@@ -1,11 +1,13 @@
 # Smart-Farming-System
 To develop a smart farming system that monitors various environmental factors and automates tasks like irrigation and fertilization to optimize crop yields and resource usage.
 
-IoT Components:
+# IoT Components:
 
 # Sensors:
 Soil Moisture Sensors: To measure the water content in the soil.
+
 Temperature Sensors: To monitor air and soil temperature.
+
 Humidity Sensors: To measure the relative humidity.
 Light Sensors: To measure the amount of sunlight.
 Nutrient Sensors (Optional): To measure the levels of essential nutrients in the soil.
