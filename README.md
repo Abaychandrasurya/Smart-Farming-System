@@ -57,7 +57,7 @@ This project focuses on creating an IoT system that uses various sensors and act
 - **Data Processing and Analysis**: Scripts or applications to process and analyze the sensor data.
 
 ## Getting Started
-1. Clone the repository: `[git clone <repository_url>](https://github.com/Abaychandrasurya/Smart-Farming-System.git)`
+1. Clone the repository: `https://github.com/Abaychandrasurya/Smart-Farming-System.git`
 2. Install the necessary dependencies.
 3. Upload the firmware to the microcontrollers.
 4. Deploy the web application to the cloud platform.
